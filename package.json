@@ -1,0 +1,19 @@
+{
+  "name": "com.vaibhavmojidra.mockserverconfigurationdemo",
+  "version": "1.0.0",
+  "description": "Mock Server Configuration Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "ui5 serve -o index.html",
+    "test": "ui5 serve -o test/mockServer.html"
+  },
+  "keywords": [
+    "Vaibhav",
+    "Mojidra"
+  ],
+  "author": "Vaibhav Mojidra",
+  "license": "ISC",
+  "devDependencies": {
+    "ui5-middleware-simpleproxy": "^3.2.8"
+  }
+}
