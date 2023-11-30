@@ -2,6 +2,9 @@
 
 This system is the so-called back-end system that we will now simulate with an SAPUI5 feature called mock server. It serves local files, but it simulates a back-end system more realistically than just loading the local data. We will also change the model instantiation part so that the model is configured in the descriptor and instantiated automatically by SAPUI5. This way, we do not need to take care of the model instantiation in the code.
 
+#### Note 
+This demo created using VS Code.
+
 ### Folder Structure
 
 ```
